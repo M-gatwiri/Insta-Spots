@@ -25,7 +25,6 @@ My goal is to sharpen frontend development skills by building a pixel-perfect de
 
 ## 🤝 Contributors
 
-This project was developed by members of Circle 13 at AltSchool Africa.  
-We collaborated as a team to strengthen our frontend development an
+Mercy Gatwiri
 
 Thank you for checking out my project!
